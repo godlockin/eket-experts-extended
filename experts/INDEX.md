@@ -155,21 +155,23 @@
 
 ## 📦 安装状态
 
-| 领域 | 专家数 | 状态 |
-|------|-------|------|
-| 🔧 tech | 8 | ✅ 完成 |
-| 🤖 ai | 8 | ✅ 完成 |
-| 🎨 design | 5 | ✅ 完成 |
-| 📣 marketing | 5 | ✅ 完成 |
-| 📢 pr | 4 | ✅ 完成 |
-| 🏢 business | 5 | ✅ 完成 |
-| 🤝 consulting | 3 | ✅ 完成 |
-| 👥 hr | 5 | ✅ 完成 |
-| 🎓 training | 3 | ✅ 完成 |
-| 📖 knowledge | 3 | ✅ 完成 |
-| 🏭 ops | 4 | ✅ 完成 |
-| **合计** | **53** | ✅ 全部就绪 |
+| 领域 | 专家数 | 状态 | 3节注入 (TASK-225 codemod) |
+|------|-------|------|---------------------------|
+| 🔧 tech | 8 | ✅ 完成 | ✅ 已注入 |
+| 🤖 ai | 8 | ✅ 完成 | ✅ 已注入 |
+| 🎨 design | 5 | ✅ 完成 | ✅ 已注入 |
+| 📣 marketing | 5 | ✅ 完成 | ✅ 已注入 |
+| 📢 pr | 4 | ✅ 完成 | ✅ 已注入 |
+| 🏢 business | 5 | ✅ 完成 | ✅ 已注入 |
+| 🤝 consulting | 3 | ✅ 完成 | ✅ 已注入 |
+| 👥 hr | 5 | ✅ 完成 | ✅ 已注入 |
+| 🎓 training | 3 | ✅ 完成 | ✅ 已注入 |
+| 📖 knowledge | 3 | ✅ 完成 | ✅ 已注入 |
+| 🏭 ops | 4 | ✅ 完成 | ✅ 已注入 |
+| **合计** | **53** | ✅ 全部就绪 | ✅ 53/53 |
+
+> **3节注入** 列说明：标注 `scripts/codemod-inject-3sections.sh` 是否已为该领域全量注入 3 节 minimal TODO skeleton（Common Rationalizations / Red Flags / Verification）。INDEX.md 通过 `--exclude=INDEX.md` 自动跳过；校验对应 `bash scripts/check-skill-anatomy.sh --minimal <file>` 或 `--all`。
 
 ---
 
-*最后更新：2026-04-26*
+*最后更新：2026-04-27 · TASK-227（与主仓 `.claude/skills/eket/experts/optional/INDEX.md` 同源镜像）*
