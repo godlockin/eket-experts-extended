@@ -6,6 +6,10 @@ role: 技术文档工程师
 emoji: ✍️
 domain: doc-writer
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - 技术文档
   - API文档

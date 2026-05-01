@@ -6,6 +6,10 @@ role: 站点可靠性工程师
 emoji: 🛡️
 domain: sre
 tier: optional
+skills:
+  primary:
+    - systematic-debugging
+    - improve-codebase-architecture
 install_trigger:
   - SRE
   - SLA

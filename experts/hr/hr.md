@@ -6,6 +6,9 @@ role: HR / 猎头顾问
 emoji: 👥
 domain: hr
 tier: optional
+skills:
+  primary:
+    - brainstorming
 install_trigger:
   - HR、人力资源、招聘、猎头
   - 组织架构、团队建设、人员配置

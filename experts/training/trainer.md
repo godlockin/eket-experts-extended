@@ -6,6 +6,10 @@ role: 企业培训师
 emoji: 🎓
 domain: trainer
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - 企业培训
   - 培训课程

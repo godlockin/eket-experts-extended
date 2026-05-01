@@ -6,6 +6,10 @@ role: 合规专家
 emoji: 📋
 domain: compliance
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - security-review
 install_trigger:
   - 合规
   - 监管

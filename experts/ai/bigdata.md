@@ -6,6 +6,10 @@ role: 大数据工程师
 emoji: 🌊
 domain: bigdata
 tier: optional
+skills:
+  primary:
+    - systematic-debugging
+    - improve-codebase-architecture
 install_trigger:
   - 大数据、Hadoop、Spark、Flink、Hive
   - 数据湖、数据仓库、湖仓一体

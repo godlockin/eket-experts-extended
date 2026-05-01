@@ -6,6 +6,10 @@ role: MLOps工程师
 emoji: 🚀
 domain: mlops
 tier: optional
+skills:
+  primary:
+    - systematic-debugging
+    - improve-codebase-architecture
 install_trigger:
   - MLOps
   - 模型部署

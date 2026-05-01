@@ -6,6 +6,11 @@ role: 移动端工程师
 emoji: 📱
 domain: mobile
 tier: optional
+skills:
+  primary:
+    - tdd
+    - frontend-design
+    - systematic-debugging
 install_trigger:
   - iOS
   - Android

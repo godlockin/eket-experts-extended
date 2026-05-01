@@ -6,6 +6,9 @@ role: 薪酬福利专家
 emoji: 💵
 domain: hr
 tier: optional
+skills:
+  primary:
+    - brainstorming
 install_trigger:
   - 薪酬设计、绩效奖金、期权、福利体系、薪酬竞争力、薪酬带宽
 

@@ -6,6 +6,9 @@ role: 法务顾问
 emoji: ⚖️
 domain: legal
 tier: optional
+skills:
+  primary:
+    - brainstorming
 install_trigger:
   - 法务
   - 合同

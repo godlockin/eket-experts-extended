@@ -6,6 +6,10 @@ role: 计算机视觉工程师
 emoji: 👁️
 domain: cv
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - 计算机视觉
   - CV

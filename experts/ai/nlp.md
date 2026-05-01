@@ -6,6 +6,10 @@ role: NLP工程师
 emoji: 💬
 domain: nlp
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - NLP
   - 自然语言处理

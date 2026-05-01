@@ -6,6 +6,10 @@ role: 品牌设计师
 emoji: 🏷️
 domain: brand
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - design-consultation
 install_trigger:
   - 品牌设计
   - VI

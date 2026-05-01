@@ -6,6 +6,11 @@ role: AI/ML 工程师
 emoji: 🤖
 domain: ai_ml
 tier: optional
+skills:
+  primary:
+    - improve-codebase-architecture
+    - brainstorming
+    - systematic-debugging
 
 personality:
   type: INTP

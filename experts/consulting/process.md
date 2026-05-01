@@ -6,6 +6,10 @@ role: 流程优化顾问
 emoji: 🔄
 domain: process
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - 流程优化
   - 精益

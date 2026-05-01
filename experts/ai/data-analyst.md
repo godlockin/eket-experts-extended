@@ -6,6 +6,10 @@ role: 数据分析师
 emoji: 📊
 domain: data-analyst
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - 数据分析、BI、报表、仪表盘
   - 指标体系、北极星指标、OKR 量化

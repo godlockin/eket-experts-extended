@@ -1,11 +1,14 @@
 ```yaml
-id: eket.hr.001
+id: eket.recruiter.001
 name: Alex Hunter
 name_cn: 猎手Alex
 role: 技术猎头 / 招聘专员
 emoji: 🎯
 domain: hr
 tier: optional
+skills:
+  primary:
+    - brainstorming
 install_trigger:
   - 猎头、招聘、JD、面试流程、候选人评估、技术岗位、人才市场
 

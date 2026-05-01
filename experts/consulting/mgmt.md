@@ -6,6 +6,10 @@ role: 管理咨询顾问
 emoji: 🏛️
 domain: mgmt
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - 管理咨询
   - 组织效率

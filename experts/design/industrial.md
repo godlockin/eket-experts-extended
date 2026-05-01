@@ -6,6 +6,10 @@ role: 工业/硬件产品设计师
 emoji: 🏭
 domain: industrial
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - 工业设计
   - 硬件设计

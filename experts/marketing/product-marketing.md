@@ -6,6 +6,10 @@ role: 产品营销经理
 emoji: 🎯
 domain: product-marketing
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - to-prd
 install_trigger:
   - 产品营销
   - PMM

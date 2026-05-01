@@ -6,6 +6,10 @@ role: 数据工程师
 emoji: 📊
 domain: data
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 
 personality:
   type: INTP

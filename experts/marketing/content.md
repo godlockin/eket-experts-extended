@@ -6,6 +6,10 @@ role: Content Strategist
 emoji: ✍️
 domain: marketing
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - copywriting
 install_trigger:
   - 内容营销
   - SEO内容

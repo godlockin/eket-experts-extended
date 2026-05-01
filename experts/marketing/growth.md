@@ -6,6 +6,10 @@ role: Growth Engineer
 emoji: 📈
 domain: marketing
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - copywriting
 install_trigger:
   - 增长
   - 用户获取

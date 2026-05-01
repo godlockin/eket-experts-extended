@@ -6,6 +6,10 @@ role: IT咨询顾问
 emoji: 💻
 domain: it-consulting
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - IT咨询
   - 数字化转型

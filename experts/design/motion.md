@@ -6,6 +6,10 @@ role: 动效设计师
 emoji: 🎬
 domain: motion
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - 动效
   - 动画

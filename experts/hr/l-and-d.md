@@ -6,6 +6,9 @@ role: 学习与发展专家（L&D）
 emoji: 📚
 domain: hr
 tier: optional
+skills:
+  primary:
+    - brainstorming
 install_trigger:
   - 培训、学习发展、L&D、能力建设、知识管理、课程设计、在线学习
 

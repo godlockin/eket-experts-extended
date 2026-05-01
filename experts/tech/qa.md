@@ -6,6 +6,11 @@ role: QA 工程师
 emoji: 🧪
 domain: qa
 tier: optional
+skills:
+  primary:
+    - webapp-testing
+    - systematic-debugging
+    - tdd
 
 personality:
   type: ISTJ

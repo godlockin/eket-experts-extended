@@ -6,6 +6,10 @@ role: 数据库管理员 / DBA
 emoji: 🗄️
 domain: dba
 tier: optional
+skills:
+  primary:
+    - systematic-debugging
+    - improve-codebase-architecture
 install_trigger:
   - DBA、数据库管理、数据库优化
   - 慢查询、索引优化、执行计划

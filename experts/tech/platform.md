@@ -6,6 +6,10 @@ role: 平台工程师
 emoji: 🏗️
 domain: platform
 tier: optional
+skills:
+  primary:
+    - improve-codebase-architecture
+    - systematic-debugging
 install_trigger:
   - 平台工程
   - 开发者体验

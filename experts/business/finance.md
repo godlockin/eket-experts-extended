@@ -6,6 +6,9 @@ role: 财务分析师
 emoji: 💰
 domain: finance
 tier: optional
+skills:
+  primary:
+    - brainstorming
 install_trigger:
   - 财务分析
   - 财务模型

@@ -6,6 +6,10 @@ role: 视觉设计师
 emoji: 🖌️
 domain: visual
 tier: optional
+skills:
+  primary:
+    - frontend-design
+    - design-review
 install_trigger:
   - 视觉设计
   - UI设计

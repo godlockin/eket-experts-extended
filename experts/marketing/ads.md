@@ -6,6 +6,10 @@ role: 广告投放专家
 emoji: 💰
 domain: ads
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - 广告投放
   - 信息流广告

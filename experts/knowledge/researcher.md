@@ -6,6 +6,10 @@ role: 技术研究员
 emoji: 🔬
 domain: researcher
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - 技术研究
   - 技术调研

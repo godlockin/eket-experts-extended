@@ -6,6 +6,10 @@ role: UX研究员
 emoji: 🔍
 domain: ux-research
 tier: optional
+skills:
+  primary:
+    - frontend-design
+    - design-review
 install_trigger:
   - 用研
   - 用户访谈

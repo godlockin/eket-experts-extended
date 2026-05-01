@@ -6,6 +6,10 @@ role: Product Operations Manager
 emoji: 🎯
 domain: ops
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - 产品运营
   - 用户运营
