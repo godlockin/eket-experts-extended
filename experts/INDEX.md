@@ -1,7 +1,7 @@
 # EKET 扩展专家库索引
 
 > **使用方式**：找到需要的专家 → 读取对应 `.md` 文件获取完整 persona。
-> 路径相对于 `~/.claude/skills/eket/experts/optional/`。
+> 路径相对于 `~/.claude/skills/eket/experts/extended/experts/`。
 > **安装扩展包**：`bash ~/.claude/skills/eket/scripts/install-extended.sh`
 
 ---
