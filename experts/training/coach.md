@@ -6,6 +6,10 @@ role: 职业教练
 emoji: 🏋️
 domain: coach
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - 职业教练
   - executive coaching

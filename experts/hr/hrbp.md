@@ -6,6 +6,9 @@ role: HR BP（人力资源业务伙伴）
 emoji: 🤝
 domain: hr
 tier: optional
+skills:
+  primary:
+    - brainstorming
 install_trigger:
   - HRBP、组织设计、人才发展、绩效管理、员工关系、组织变革
 

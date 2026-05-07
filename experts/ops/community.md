@@ -6,6 +6,10 @@ role: Community Manager
 emoji: 👋
 domain: ops
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - 社区
   - Discord

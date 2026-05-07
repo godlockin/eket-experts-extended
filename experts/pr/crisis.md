@@ -6,6 +6,10 @@ role: Crisis Communications Specialist
 emoji: 🚨
 domain: pr
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - copywriting
 install_trigger:
   - 危机
   - 舆情

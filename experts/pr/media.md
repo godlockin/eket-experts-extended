@@ -6,6 +6,10 @@ role: 媒体关系专家
 emoji: 🎙️
 domain: media
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - 媒体关系
   - 媒体资源

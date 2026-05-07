@@ -6,6 +6,10 @@ role: 业务分析师
 emoji: 💼
 domain: business
 tier: optional
+skills:
+  primary:
+    - to-prd
+    - brainstorming
 
 personality:
   type: ESTJ

@@ -6,6 +6,10 @@ role: 战略顾问
 emoji: 🗺️
 domain: strategy
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - to-prd
 install_trigger:
   - 战略规划
   - 商业战略

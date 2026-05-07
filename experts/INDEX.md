@@ -1,12 +1,10 @@
-# EKET 扩展专家库索引
-
-> **使用方式**：找到需要的专家 → 读取对应 `.md` 文件获取完整 persona。
-> 路径：`~/.claude/skills/eket/experts/extended/experts/<category>/<name>.md`
+> 自动生成 · 最后更新：2026-05-01 21:17 · 共 53 位专家
+>
+> **路径**：`~/.claude/skills/eket/experts/extended/experts/<group>/<file>`
+> **搜索**：`eket expert:search "<keyword>" --pkg extended`
+> **加载**：专家文件由 ExpertSkillBridge 在 task:claim / expert:compose 时自动加载
 
 ---
-
-## 🗺️ 组织架构树（52位专家）
-
 ```
 扩展专家库
 │

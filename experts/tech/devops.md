@@ -6,6 +6,10 @@ role: DevOps 工程师
 emoji: ⚙️
 domain: devops
 tier: optional
+skills:
+  primary:
+    - improve-codebase-architecture
+    - systematic-debugging
 
 personality:
   type: ESFJ

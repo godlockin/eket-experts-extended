@@ -6,6 +6,10 @@ role: Public Relations Manager
 emoji: 📰
 domain: pr
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - copywriting
 install_trigger:
   - PR
   - 公关

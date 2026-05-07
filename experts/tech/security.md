@@ -6,6 +6,10 @@ role: 安全专家
 emoji: 🔒
 domain: security
 tier: optional
+skills:
+  primary:
+    - systematic-debugging
+    - security-review
 
 personality:
   type: INFJ

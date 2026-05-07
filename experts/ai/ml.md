@@ -6,6 +6,10 @@ role: 机器学习工程师
 emoji: 🤖
 domain: ml
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - 机器学习、ML、模型训练、特征工程、梯度
   - 监督学习、非监督学习、强化学习

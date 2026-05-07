@@ -6,6 +6,10 @@ role: 性能工程师
 emoji: ⚡
 domain: performance
 tier: optional
+skills:
+  primary:
+    - improve-codebase-architecture
+    - systematic-debugging
 install_trigger:
   - 性能优化
   - 压测

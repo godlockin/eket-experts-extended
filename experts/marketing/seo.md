@@ -6,6 +6,10 @@ role: Search Marketing Specialist
 emoji: 🔍
 domain: marketing
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - copywriting
 install_trigger:
   - SEO
   - SEM

@@ -6,6 +6,10 @@ role: KOL/达人合作专家
 emoji: 🌟
 domain: kol
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - KOL
   - 达人合作

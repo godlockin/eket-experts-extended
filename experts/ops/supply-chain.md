@@ -6,6 +6,9 @@ role: 供应链运营专家
 emoji: 🚚
 domain: supply-chain
 tier: optional
+skills:
+  primary:
+    - brainstorming
 install_trigger:
   - 供应链
   - 采购

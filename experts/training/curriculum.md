@@ -6,6 +6,10 @@ role: 课程设计师
 emoji: 📝
 domain: curriculum
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - 课程设计
   - 教学设计

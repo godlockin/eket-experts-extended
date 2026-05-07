@@ -6,6 +6,10 @@ role: Customer Success Manager
 emoji: 🎧
 domain: ops
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - 客户成功
   - CSM

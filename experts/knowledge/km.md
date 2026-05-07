@@ -6,6 +6,10 @@ role: 知识管理专家
 emoji: 📚
 domain: km
 tier: optional
+skills:
+  primary:
+    - brainstorming
+    - systematic-debugging
 install_trigger:
   - 知识管理
   - 知识库
