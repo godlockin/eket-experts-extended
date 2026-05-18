@@ -1,4 +1,4 @@
-> 自动生成 · 最后更新：2026-05-01 21:17 · 共 53 位专家
+> 自动生成 · 最后更新：2026-05-18 12:05 · 共 70 位专家
 >
 > **路径**：`~/.claude/skills/eket/experts/extended/experts/<group>/<file>`
 > **搜索**：`eket expert:search "<keyword>" --pkg extended`
@@ -48,10 +48,27 @@
 │   ├── media.md                🎙️  媒体关系专家（新闻投放）
 │   └── kol.md                  🌟 KOL/达人合作专家（影响力营销）
 │
-├── 🏢 business/                商业分析 / 法务（5位）
+├── 🏢 business/                商业分析 / 金融（22位）
+│   ├── investment-advisor.md  🧭 投资顾问（目标诊断/专家推荐/流程设计）⭐核心
 │   ├── business.md             💼 业务分析师（业务规则/行业背景）
 │   ├── strategy.md             🗺️  战略顾问（竞争分析/路线图）
 │   ├── finance.md              💰 财务分析师（P&L/DCF/单位经济）
+│   ├── economist.md            📊 经济学专家（宏观分析/产业政策）
+│   ├── stock-trader.md         📈 股票操盘手（技术分析/趋势判断）
+│   ├── futures-trader.md       ⚡ 期货操盘手（杠杆交易/资金管理）
+│   ├── options-trader.md       📊 期权交易专家（对冲/波动率/Greeks）
+│   ├── fixed-income-analyst.md 📜 固定收益分析师（债券/利率/可转债）
+│   ├── risk-manager.md         🛡️  风控专家（风险管理/压力测试）
+│   ├── quant-researcher.md     📐 量化投资专家（因子/回测/策略开发）
+│   ├── industry-analyst.md     🔬 行业研究员（产业链/竞争格局/调研）
+│   ├── trading-psychologist.md 🧘 交易心理教练（情绪管理/纪律训练）
+│   ├── forensic-accountant.md  🔍 财报分析专家（财报真伪/造假识别）
+│   ├── portfolio-manager.md    📁 投资组合经理（组合构建/再平衡）
+│   ├── value-investor.md       🔥 价值投资专家（烟蒂/安全边际/清算价值）
+│   ├── bankruptcy-specialist.md ⚖️  破产重组专家（预重整/债转股）
+│   ├── market-microstructure.md ⚡ 市场微结构专家（乌龙指/闪崩/套利）
+│   ├── hft-specialist.md       🚀 高频交易专家（毫秒执行/滑点控制）
+│   ├── event-driven-analyst.md 📰 事件驱动分析师（催化剂/黑天鹅/错杀）
 │   ├── legal.md                ⚖️  法务顾问（合同/IP/数据隐私）
 │   └── compliance.md           📋 合规专家（ISO/SOC2/等保）
 │
@@ -126,8 +143,25 @@
 | 危机处理/舆情 | 危机公关 | `pr/crisis.md` |
 | 媒体采访/关系 | 媒体关系 | `pr/media.md` |
 | KOL/达人/种草 | KOL合作 | `pr/kol.md` |
+| **投资入口** | 投资顾问 | `business/investment-advisor.md` ⭐ |
 | 战略规划/竞品 | 战略顾问 | `business/strategy.md` |
 | 财务模型/融资 | 财务分析师 | `business/finance.md` |
+| 宏观经济/产业政策 | 经济学专家 | `business/economist.md` |
+| 股票技术分析/选股 | 股票操盘手 | `business/stock-trader.md` |
+| 期货/杠杆交易 | 期货操盘手 | `business/futures-trader.md` |
+| 期权/对冲/波动率 | 期权交易专家 | `business/options-trader.md` |
+| 债券/利率/可转债 | 固定收益分析师 | `business/fixed-income-analyst.md` |
+| 风险管理/压力测试 | 风控专家 | `business/risk-manager.md` |
+| 量化策略/因子挖掘/回测 | 量化投资专家 | `business/quant-researcher.md` |
+| 行业深度研究/产业链 | 行业研究员 | `business/industry-analyst.md` |
+| 交易心理/情绪管理 | 交易心理教练 | `business/trading-psychologist.md` |
+| 财报真伪/造假识别 | 财报分析专家 | `business/forensic-accountant.md` |
+| 组合构建/再平衡 | 投资组合经理 | `business/portfolio-manager.md` |
+| 烟蒂投资/安全边际 | 价值投资专家 | `business/value-investor.md` |
+| 破产重组/债转股 | 破产重组专家 | `business/bankruptcy-specialist.md` |
+| 乌龙指/闪崩/套利 | 市场微结构专家 | `business/market-microstructure.md` |
+| 高频执行/滑点控制 | 高频交易专家 | `business/hft-specialist.md` |
+| 催化剂/黑天鹅/错杀 | 事件驱动分析师 | `business/event-driven-analyst.md` |
 | 合同/知识产权 | 法务顾问 | `business/legal.md` |
 | ISO/SOC2/合规 | 合规专家 | `business/compliance.md` |
 | 管理咨询/MECE | 管理顾问 | `consulting/mgmt.md` |
@@ -159,16 +193,16 @@
 | 🎨 design | 5 | ✅ 完成 | ✅ 已注入 |
 | 📣 marketing | 5 | ✅ 完成 | ✅ 已注入 |
 | 📢 pr | 4 | ✅ 完成 | ✅ 已注入 |
-| 🏢 business | 5 | ✅ 完成 | ✅ 已注入 |
+| 🏢 business | 22 | ✅ 完成 | ✅ 已注入 |
 | 🤝 consulting | 3 | ✅ 完成 | ✅ 已注入 |
 | 👥 hr | 5 | ✅ 完成 | ✅ 已注入 |
 | 🎓 training | 3 | ✅ 完成 | ✅ 已注入 |
 | 📖 knowledge | 3 | ✅ 完成 | ✅ 已注入 |
 | 🏭 ops | 4 | ✅ 完成 | ✅ 已注入 |
-| **合计** | **53** | ✅ 全部就绪 | ✅ 53/53 |
+| **合计** | **70** | ✅ 全部就绪 | ✅ 70/70 |
 
 > **3节注入** 列说明：标注 `scripts/codemod-inject-3sections.sh` 是否已为该领域全量注入 3 节 minimal TODO skeleton（Common Rationalizations / Red Flags / Verification）。INDEX.md 通过 `--exclude=INDEX.md` 自动跳过；校验对应 `bash scripts/check-skill-anatomy.sh --minimal <file>` 或 `--all`。
 
 ---
 
-*最后更新：2026-04-27 · TASK-227（与主仓 `.claude/skills/eket/experts/optional/INDEX.md` 同源镜像）*
+*最后更新：2026-05-18 · 新增13位金融专家 | 🧭 投资顾问为核心入口 | 覆盖股/债/期权/衍生品完整投资链*
