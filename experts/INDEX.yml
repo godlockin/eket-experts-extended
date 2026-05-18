@@ -1,0 +1,353 @@
+# EKET Expert Index (Extended Package)
+# Auto-generated: 2026-05-18 12:35
+# Total: 70 experts across 11 domains
+# Token-optimized format (700 tokens vs 2100 in Markdown)
+
+meta:
+  total: 70
+  base_path: "~/.claude/skills/eket/experts/extended/experts"
+  search_cmd: "eket expert:search '<keyword>' --pkg extended"
+  last_updated: "2026-05-18T12:35:00+08:00"
+  format_version: "1.0"
+
+domains:
+  tech:
+    name: "工程技术深化"
+    emoji: "🔧"
+    count: 8
+    experts:
+      - {file: security.md, name: 安全工程师, emoji: 🔒}
+      - {file: devops.md, name: DevOps工程师, emoji: ⚙️}
+      - {file: qa.md, name: QA工程师, emoji: 🧪}
+      - {file: dba.md, name: 数据库管理员, emoji: 🗄️}
+      - {file: sre.md, name: SRE, emoji: 🛡️}
+      - {file: mobile.md, name: 移动端工程师, emoji: 📱}
+      - {file: performance.md, name: 性能工程师, emoji: ⚡}
+      - {file: platform.md, name: 平台工程师, emoji: 🏗️}
+
+  ai:
+    name: "AI/ML/数据"
+    emoji: "🤖"
+    count: 8
+    experts:
+      - {file: aiml.md, name: AI工程师, emoji: 🤖}
+      - {file: ml.md, name: 机器学习工程师, emoji: 🤖}
+      - {file: nlp.md, name: NLP工程师, emoji: 💬}
+      - {file: cv.md, name: 计算机视觉工程师, emoji: 👁️}
+      - {file: mlops.md, name: MLOps工程师, emoji: 🚀}
+      - {file: bigdata.md, name: 大数据工程师, emoji: 🌊}
+      - {file: data-analyst.md, name: 数据分析师, emoji: 📊}
+      - {file: data.md, name: 数据工程师, emoji: 📦}
+
+  design:
+    name: "设计"
+    emoji: "🎨"
+    count: 5
+    experts:
+      - {file: ux-research.md, name: UX研究员, emoji: 🔍}
+      - {file: visual.md, name: 视觉设计师, emoji: 🖌️}
+      - {file: brand.md, name: 品牌设计师, emoji: 🏷️}
+      - {file: motion.md, name: 动效设计师, emoji: 🎬}
+      - {file: industrial.md, name: 工业设计师, emoji: 🏭}
+
+  marketing:
+    name: "市场营销"
+    emoji: "📣"
+    count: 5
+    experts:
+      - {file: growth.md, name: 增长黑客, emoji: 📈}
+      - {file: content.md, name: 内容营销专家, emoji: ✍️}
+      - {file: seo.md, name: SEO/SEM专家, emoji: 🔍}
+      - {file: ads.md, name: 广告投放专家, emoji: 💰}
+      - {file: product-marketing.md, name: 产品营销经理, emoji: 🎯}
+
+  pr:
+    name: "公关/宣传"
+    emoji: "📢"
+    count: 4
+    experts:
+      - {file: pr-manager.md, name: 公关经理, emoji: 📰}
+      - {file: crisis.md, name: 危机公关专家, emoji: 🚨}
+      - {file: media.md, name: 媒体关系专家, emoji: 🎙️}
+      - {file: kol.md, name: KOL合作专家, emoji: 🌟}
+
+  business:
+    name: "商业分析/金融"
+    emoji: "🏢"
+    count: 22
+    core_entry: investment-advisor
+    experts:
+      - {file: investment-advisor.md, name: 投资顾问, emoji: 🧭, tier: core, id: "eket.finance.026"}
+      - {file: business.md, name: 业务分析师, emoji: 💼}
+      - {file: strategy.md, name: 战略顾问, emoji: 🗺️}
+      - {file: finance.md, name: 财务分析师, emoji: 💰}
+      - {file: economist.md, name: 经济学专家, emoji: 📊, id: "eket.finance.010"}
+      - {file: stock-trader.md, name: 股票操盘手, emoji: 📈, id: "eket.finance.011"}
+      - {file: futures-trader.md, name: 期货操盘手, emoji: ⚡, id: "eket.finance.012"}
+      - {file: options-trader.md, name: 期权交易专家, emoji: 📊, id: "eket.finance.024"}
+      - {file: fixed-income-analyst.md, name: 固定收益分析师, emoji: 📜, id: "eket.finance.025"}
+      - {file: risk-manager.md, name: 风控专家, emoji: 🛡️, id: "eket.finance.013"}
+      - {file: quant-researcher.md, name: 量化投资专家, emoji: 📐, id: "eket.finance.014"}
+      - {file: industry-analyst.md, name: 行业研究员, emoji: 🔬, id: "eket.finance.015"}
+      - {file: trading-psychologist.md, name: 交易心理教练, emoji: 🧘, id: "eket.finance.016"}
+      - {file: forensic-accountant.md, name: 财报分析专家, emoji: 🔍, id: "eket.finance.017"}
+      - {file: portfolio-manager.md, name: 投资组合经理, emoji: 📁, id: "eket.finance.018"}
+      - {file: value-investor.md, name: 价值投资专家, emoji: 🔥, id: "eket.finance.019"}
+      - {file: bankruptcy-specialist.md, name: 破产重组专家, emoji: ⚖️, id: "eket.finance.020"}
+      - {file: market-microstructure.md, name: 市场微结构专家, emoji: ⚡, id: "eket.finance.021"}
+      - {file: hft-specialist.md, name: 高频交易专家, emoji: 🚀, id: "eket.finance.022"}
+      - {file: event-driven-analyst.md, name: 事件驱动分析师, emoji: 📰, id: "eket.finance.023"}
+      - {file: legal.md, name: 法务顾问, emoji: ⚖️}
+      - {file: compliance.md, name: 合规专家, emoji: 📋}
+
+  consulting:
+    name: "咨询"
+    emoji: "🤝"
+    count: 3
+    experts:
+      - {file: mgmt.md, name: 管理咨询顾问, emoji: 🏛️}
+      - {file: it-consulting.md, name: IT咨询顾问, emoji: 💻}
+      - {file: process.md, name: 流程优化顾问, emoji: 🔄}
+
+  hr:
+    name: "人力资源"
+    emoji: "👥"
+    count: 5
+    experts:
+      - {file: hr.md, name: HR通才, emoji: 👥}
+      - {file: recruiter.md, name: 技术猎头, emoji: 🎯}
+      - {file: hrbp.md, name: HR BP, emoji: 🤝}
+      - {file: l-and-d.md, name: 学习与发展专家, emoji: 📚}
+      - {file: comp.md, name: 薪酬福利专家, emoji: 💵}
+
+  training:
+    name: "培训/教育"
+    emoji: "🎓"
+    count: 3
+    experts:
+      - {file: trainer.md, name: 企业培训师, emoji: 🎓}
+      - {file: coach.md, name: 职业教练, emoji: 🏋️}
+      - {file: curriculum.md, name: 课程设计师, emoji: 📝}
+
+  knowledge:
+    name: "知识管理/研究"
+    emoji: "📖"
+    count: 3
+    experts:
+      - {file: km.md, name: 知识管理专家, emoji: 📚}
+      - {file: researcher.md, name: 技术研究员, emoji: 🔬}
+      - {file: doc-writer.md, name: 技术文档工程师, emoji: ✍️}
+
+  ops:
+    name: "运营"
+    emoji: "🏭"
+    count: 4
+    experts:
+      - {file: product-ops.md, name: 产品运营专家, emoji: 🎯}
+      - {file: community.md, name: 社区运营专家, emoji: 👋}
+      - {file: customer.md, name: 客户成功专家, emoji: 🎧}
+      - {file: supply-chain.md, name: 供应链运营专家, emoji: 🚚}
+
+# 场景化专家组合（减少重复查询）
+scenarios:
+  stock_screening:
+    name: "常规选股投资"
+    phase_1: [economist, industry-analyst]
+    phase_2: [finance, forensic-accountant]
+    phase_3: [stock-trader]
+    phase_4: [portfolio-manager, risk-manager]
+    phase_5: [trading-psychologist]
+
+  quant_strategy:
+    name: "量化策略开发"
+    experts: [quant-researcher, industry-analyst, finance, stock-trader, portfolio-manager, risk-manager]
+
+  value_investing:
+    name: "捡烟蒂（Deep Value）"
+    experts: [value-investor, forensic-accountant, finance, bankruptcy-specialist, event-driven-analyst, stock-trader, portfolio-manager, risk-manager]
+
+  flash_crash:
+    name: "捡乌龙指（Flash Crash）"
+    experts: [market-microstructure, hft-specialist, stock-trader, risk-manager, event-driven-analyst]
+
+  distressed_turnaround:
+    name: "困境反转投资"
+    experts: [bankruptcy-specialist, value-investor, finance, forensic-accountant, event-driven-analyst, stock-trader, risk-manager]
+
+  options_hedge:
+    name: "期权对冲策略"
+    experts: [options-trader, stock-trader, risk-manager, portfolio-manager]
+
+  bond_allocation:
+    name: "债券配置"
+    experts: [fixed-income-analyst, economist, portfolio-manager, risk-manager]
+
+  full_portfolio:
+    name: "全天候组合"
+    experts: [economist, fixed-income-analyst, options-trader, portfolio-manager, risk-manager]
+
+# Trigger关键词倒排索引（快速查找专家）
+triggers:
+  # 技术类
+  安全审计: [security]
+  渗透测试: [security]
+  CICD: [devops]
+  K8s: [devops]
+  容器化: [devops]
+  数据库优化: [dba]
+  索引优化: [dba]
+  SLA: [sre]
+  故障处理: [sre]
+  iOS开发: [mobile]
+  Android开发: [mobile]
+  跨端开发: [mobile]
+  性能优化: [performance]
+  压测: [performance]
+  开发者平台: [platform]
+
+  # AI/数据类
+  LLM: [aiml]
+  RAG: [aiml]
+  向量库: [aiml]
+  模型训练: [ml]
+  特征工程: [ml]
+  NLP: [nlp]
+  文本分类: [nlp]
+  目标检测: [cv]
+  图像识别: [cv]
+  模型上线: [mlops]
+  Spark: [bigdata]
+  Flink: [bigdata]
+  数仓: [bigdata]
+  指标分析: [data-analyst]
+  AB测试: [data-analyst]
+  ETL: [data]
+
+  # 金融投资类（核心）
+  投资建议: [investment-advisor]
+  投资目标: [investment-advisor]
+  专家推荐: [investment-advisor]
+  宏观分析: [economist]
+  政策影响: [economist]
+  产业周期: [economist]
+  技术分析: [stock-trader]
+  买点: [stock-trader]
+  卖点: [stock-trader]
+  K线: [stock-trader]
+  均线: [stock-trader]
+  MACD: [stock-trader]
+  RSI: [stock-trader]
+  期货: [futures-trader]
+  杠杆交易: [futures-trader]
+  期权: [options-trader]
+  对冲: [options-trader]
+  波动率: [options-trader]
+  Greeks: [options-trader]
+  债券: [fixed-income-analyst]
+  利率: [fixed-income-analyst]
+  久期: [fixed-income-analyst]
+  可转债: [fixed-income-analyst]
+  风险管理: [risk-manager]
+  压力测试: [risk-manager]
+  VaR: [risk-manager]
+  量化回测: [quant-researcher]
+  因子挖掘: [quant-researcher]
+  策略开发: [quant-researcher]
+  行业研究: [industry-analyst]
+  产业链: [industry-analyst]
+  竞争格局: [industry-analyst]
+  交易心理: [trading-psychologist]
+  止损执行: [trading-psychologist]
+  情绪管理: [trading-psychologist]
+  财报造假: [forensic-accountant]
+  财报分析: [forensic-accountant]
+  现金流: [forensic-accountant]
+  组合构建: [portfolio-manager]
+  再平衡: [portfolio-manager]
+  仓位管理: [portfolio-manager]
+  烟蒂投资: [value-investor]
+  安全边际: [value-investor]
+  清算价值: [value-investor]
+  破产重组: [bankruptcy-specialist]
+  债转股: [bankruptcy-specialist]
+  困境反转: [bankruptcy-specialist]
+  乌龙指: [market-microstructure]
+  闪崩: [market-microstructure]
+  异常交易: [market-microstructure]
+  高频交易: [hft-specialist]
+  滑点控制: [hft-specialist]
+  催化剂: [event-driven-analyst]
+  黑天鹅: [event-driven-analyst]
+  错杀: [event-driven-analyst]
+  财务建模: [finance]
+  估值: [finance]
+  DCF: [finance]
+
+  # 设计类
+  用户研究: [ux-research]
+  可用性测试: [ux-research]
+  UI设计: [visual]
+  设计系统: [visual]
+  品牌设计: [brand]
+  VI: [brand]
+  动效设计: [motion]
+  Lottie: [motion]
+  工业设计: [industrial]
+  CMF: [industrial]
+
+  # 营销类
+  增长黑客: [growth]
+  转化率: [growth]
+  裂变: [growth]
+  SEO: [seo]
+  SEM: [seo]
+  内容营销: [content]
+  信息流广告: [ads]
+  ROAS: [ads]
+  GTM: [product-marketing]
+  产品定位: [product-marketing]
+
+  # PR类
+  媒体曝光: [pr-manager]
+  新闻稿: [pr-manager]
+  危机处理: [crisis]
+  舆情: [crisis]
+  媒体关系: [media]
+  KOL: [kol]
+  达人合作: [kol]
+
+  # HR/培训类
+  猎头: [recruiter]
+  JD: [recruiter]
+  面试: [recruiter]
+  组织诊断: [hrbp]
+  绩效管理: [hrbp]
+  培训体系: [l-and-d]
+  薪酬设计: [comp]
+  股权激励: [comp]
+  工作坊: [trainer]
+  职业规划: [coach]
+  领导力: [coach]
+
+  # 咨询/知识类
+  管理咨询: [mgmt]
+  MECE: [mgmt]
+  数字化转型: [it-consulting]
+  ERP: [it-consulting]
+  精益: [process]
+  六西格玛: [process]
+  知识库: [km]
+  企业Wiki: [km]
+  技术调研: [researcher]
+  PoC: [researcher]
+  API文档: [doc-writer]
+
+  # 运营类
+  用户运营: [product-ops]
+  活动策划: [product-ops]
+  社区运营: [community]
+  Discord: [community]
+  客户成功: [customer]
+  NPS: [customer]
+  供应链: [supply-chain]
+  库存管理: [supply-chain]
